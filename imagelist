@@ -1,0 +1,95 @@
+blacksmith images/blacksmith.bmp 255 255 255 0
+blob images/blob1.bmp 255 255 255 0
+blob images/blob2.bmp 255 255 255 0
+blob images/blob3.bmp 255 255 255 0
+blob images/blob4.bmp 255 255 255 0
+blob images/blob5.bmp 255 255 255 0
+blob images/blob6.bmp 255 255 255 0
+blob images/blob7.bmp 255 255 255 0
+blob images/blob8.bmp 255 255 255 0
+blob images/blob9.bmp 255 255 255 0
+blob images/blob10.bmp 255 255 255 0
+blob images/blob11.bmp 255 255 255 0
+blob images/blob12.bmp 255 255 255 0
+miner images/miner1.bmp 252 252 252 0
+miner images/miner2.bmp 252 252 252 0
+miner images/miner3.bmp 252 252 252 0
+miner images/miner4.bmp 252 252 252 0
+miner images/miner5.bmp 252 252 252 0
+quake images/quake1.bmp 255 255 255 0
+quake images/quake2.bmp 255 255 255 0
+quake images/quake3.bmp 255 255 255 0
+quake images/quake4.bmp 255 255 255 0
+quake images/quake5.bmp 255 255 255 0
+quake images/quake6.bmp 255 255 255 0
+ore images/ore.bmp 201 26 26 0
+obstacle images/obstacle.bmp
+grass images/grass.bmp
+rocks images/rock.bmp
+dirt images/dirt.bmp
+vein images/vein.bmp
+background_default images/none.bmp
+ghost images/ghost1.bmp 0 0 0 0
+ghost images/ghost2.bmp 0 0 0 0
+ghost images/ghost3.bmp 0 0 0 0
+ghost images/ghost4.bmp 0 0 0 0
+ghost images/ghost5.bmp 0 0 0 0
+ghost images/ghost6.bmp 0 0 0 0
+ghost images/ghost7.bmp 0 0 0 0
+ghost images/ghost8.bmp 0 0 0 0
+ghost images/ghost9.bmp 0 0 0 0
+ghost images/ghost10.bmp 0 0 0 0
+ghost images/ghost11.bmp 0 0 0 0
+ghost images/ghost12.bmp 0 0 0 0
+ghost images/ghost13.bmp 0 0 0 0
+ghost images/ghost14.bmp 0 0 0 0
+ghost images/ghost15.bmp 0 0 0 0
+ghost images/ghost16.bmp 0 0 0 0
+ghost images/ghost17.bmp 0 0 0 0
+ghost images/ghost18.bmp 0 0 0 0
+ghost images/ghost19.bmp 0 0 0 0
+ghost images/ghost20.bmp 0 0 0 0
+ghost images/ghost21.bmp 0 0 0 0
+ghost images/ghost22.bmp 0 0 0 0
+ghost images/ghost23.bmp 0 0 0 0
+ghost images/ghost24.bmp 0 0 0 0
+ghost images/ghost25.bmp 0 0 0 0
+ghost images/ghost26.bmp 0 0 0 0
+ghost images/ghost27.bmp 0 0 0 0
+ghost images/ghost28.bmp 0 0 0 0
+ghost images/ghost29.bmp 0 0 0 0
+ghost images/ghost30.bmp 0 0 0 0
+ghost images/ghost31.bmp 0 0 0 0
+ghost images/ghost32.bmp 0 0 0 0
+pacman images/pacman1.bmp 0 0 0 0
+pacman images/pacman2.bmp 0 0 0 0
+pacman images/pacman3.bmp 0 0 0 0
+pacman images/pacman4.bmp 0 0 0 0
+pacman images/pacman5.bmp 0 0 0 0
+pacman images/pacman6.bmp 0 0 0 0
+pacman images/pacman7.bmp 0 0 0 0
+pacman images/pacman8.bmp 0 0 0 0
+pacman images/pacman9.bmp 0 0 0 0
+pacman images/pacman10.bmp 0 0 0 0
+pacman images/pacman11.bmp 0 0 0 0
+pacman images/pacman12.bmp 0 0 0 0
+pacman images/pacman13.bmp 0 0 0 0
+pacman images/pacman14.bmp 0 0 0 0
+pacman images/pacman15.bmp 0 0 0 0
+pacman images/pacman16.bmp 0 0 0 0
+pacman images/pacman17.bmp 0 0 0 0
+pacman images/pacman18.bmp 0 0 0 0
+pacman images/pacman19.bmp 0 0 0 0
+pacman images/pacman20.bmp 0 0 0 0
+edibleghost images/edibleghost1.bmp 255 255 255 0
+edibleghost images/edibleghost2.bmp 255 255 255 0
+edibleghostexpire images/edibleghostexpire1.bmp 4 2 6 0
+edibleghostexpire images/edibleghostexpire2.bmp 4 2 6 0
+edibleghostexpire images/edibleghostexpire3.bmp 4 2 6 0
+edibleghostexpire images/edibleghostexpire4.bmp 4 2 6 0
+edibleghostexpire images/edibleghostexpire5.bmp 4 2 6 0
+edibleghostexpire images/edibleghostexpire6.bmp 4 2 6 0
+edibleghostexpire images/edibleghostexpire7.bmp 4 2 6 0
+edibleghostexpire images/edibleghostexpire8.bmp 4 2 6 0
+jail images/jail.bmp
+pinkBackground images/pinkBackground.bmp

@@ -1,0 +1,7 @@
+Regrade:
+moved the following methods to WorldModel: tryAddEntity, moveEntity, addEntity, removeEntity
+
+The function distanceSquared can be kept in Functions or moved to Point. However, it makes more sense to be moved to Point and kept as static as point and distanceSquared are related.
+The method getCurrentImage can be kept in main. Howerver, it is better to divide it into 2 methods; one method in Background and one method in Entity. This way, we can avoid the if statements and the need for error detection.
+The methods: setBackgroundCell, withinBounds can be moved to Point or WorldModel, but I decided to put them in WorldModel because they are related to other methods which are located in WorldModel.
+The method nearestEntity can be either put in Entity (kept static), or to Point, or to Functions (kept static). Eventually, I decided to put in nearestEntity because the method is accessing Entity attributes. This didn't seem obvious at first as the method is taking a List<Entity> as argument and not Entity.

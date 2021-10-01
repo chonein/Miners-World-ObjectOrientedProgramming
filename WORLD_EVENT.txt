@@ -1,0 +1,34 @@
+Pac-man Game World Event Description:
+Project is uploaded in Christian Honein's GitHub.
+
+NOTE: If you are using a Mac, the game GUI might extend out of your screen. 
+To fix that, go to Preferences, Display, in the Display tab, choose scaled for resolution and choose the more space option. 
+(If you are on Windows and you are experiencing the problem, go to display settings and lower scaling to 100%)
+
+NOTE: Avoid using the fast presets (command line arguments). The game would become unreasonably hard.
+
+HOW TO PLAY: Your task as the user is to control Pac-man to eat all of the ghosts.
+To eat a ghost, you must first eat a yellow ore that spawns around the map near the ore veins. 
+After you eat a yellow ore, the ghosts are in a vulnerable state where you can eat them. 
+When they are not in their vulnerable state, run away from the ghosts because they will try and eat you! 
+The ghosts will flash colors when they are about to transition from their vulnerable state 
+back to their normal state. Act quickly, as the ores and ore veins will despawn after a certain amount of time. 
+Furthermore, beware that miners can block your path and eat up ores around the map.
+To start the game, click on a large open space next to a miner to create a jail cell with ghosts in it 
+(this will also spawn Pac-man).
+
+1. An event is triggered upon clicking on the screen. 
+2. Where you click on the screen, a jail cell will appear. If any miners are in the proximity of where the jail cell appears, 
+   the miners will be converted into "ghost miners". A user-controllable Pac-man will also spawn beneath the jail, and you can begin
+   a game of Pac-man, eating ore blobs.
+3. The affected entities are the ghost miners, which will leave the jail cell to try and find and eat the Pac-man.
+   The ghost miners use AStar Pathing to track down the user-controled Pac-man.
+4. The new entitiy is a spawned in user-controlled Pac-man. The user should navigate the Pac-man to try to eat ore blobs 
+   to be able to eat the ghost miners. (Pacman is moved using WASD or HJKL; However, if you want to move Pacman to move by itself, press q.
+   To get back to controlling Pacman press W, A, S, D, H, J, K, or L)
+5. Christian Honein and Nate Sherman
+   - Both of us worked together and helped each other with their parts, but for the most part:
+   - Christian was responsible for designing and writing the code for the new entities, entity transition from miner to ghost miner, and behavior
+     of the new entities.
+   - Nate was responsible for implementing new graphics, designing and programming the new world layout of the background and obstacles, and 
+     writing the code for the mouse click event.
